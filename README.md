@@ -30,3 +30,4 @@ Henrique - github.com/henrique-almd1
 <br>
 Emanuel - github.com/emanuelcunha22
 <br>
+Julia Moraes - github.com/juliamoraes962
