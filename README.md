@@ -9,3 +9,5 @@ Júlia Gomes - github.com/Juliag0m3s
 Leticia - github.com/Leci-cia
 <br>
 Miguel - github.com/monttmg7
+<br>
+Thiago Joseph - github/Josephxxx
