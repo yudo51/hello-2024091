@@ -20,3 +20,5 @@ Sandro - github.com/sando209
 <br>
 Rafael - github.com/RGzinhoo
 <br>
+Emanuelle - github.com/emanuellebtt
+<br>
