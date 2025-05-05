@@ -27,3 +27,6 @@ Luca - github.com/Lucabalieiro
 Guilherme - github.com/Guilherme976
 <br>
 Henrique - github.com/henrique-almd1
+<br>
+Emanuel - github.com/emanuelcunha22
+<br>
