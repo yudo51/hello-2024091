@@ -33,3 +33,5 @@ Emanuel - github.com/emanuelcunha22
 Julia Moraes - github.com/juliamoraes962
 <br>
 Gustavo - github.com/eueojhonatansantoscomemosfrangodmacumba
+<br>
+Isaac Maia - github.com/IsaacM00
